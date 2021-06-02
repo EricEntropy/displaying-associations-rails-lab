@@ -1,3 +1,4 @@
+system('clear')
 describe 'artists', type: :feature do
   before do
     Artist.destroy_all
